@@ -1,0 +1,13 @@
+.input-delete {
+    height: 40px !important;
+    margin-top: 3px;
+}
+
+input[name="level"]{
+    /* position: absolute !important; */
+    /* width: 100px; */
+}
+
+.form-group{
+    position: relative !important;
+} 
